@@ -1,2 +1,3 @@
 Select * from prv
 test
+select * from dual
